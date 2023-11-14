@@ -45,6 +45,18 @@ const sidebars = {
                     },
                 ],
             },
+            {
+                type: 'category',
+                label: 'Module 2 : Les principes de la protection des données',
+                items: [
+                    'certification/cnil/module2/index',
+                    {
+                        type: 'category',
+                        label: 'Activités',
+                        items: ['certification/cnil/module2/activites/activite1'],
+                    },
+                ],
+            },
         ],
     },
 ],
