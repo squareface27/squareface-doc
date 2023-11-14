@@ -53,7 +53,7 @@ const sidebars = {
                     {
                         type: 'category',
                         label: 'Activités',
-                        items: ['certification/cnil/module2/activites/activite1'],
+                        items: ['certification/cnil/module2/activites/activite1', 'certification/cnil/module2/activites/activite2'],
                     },
                 ],
             },
