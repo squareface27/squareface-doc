@@ -14,16 +14,16 @@ Symfony est un framework PHP puissant et populaire pour le développement web. L
 
 Pour installer Symfony, assurez-vous d'avoir la version PHP adéquate. De plus, Symfony utilise Composer pour la gestion des dépendances. Voici comment installer Composer :
 
-### Installer Composer
+## Installer Composer
 
 Composer est un gestionnaire de dépendances pour PHP qui est largement utilisé avec Symfony. Pour l'installer, suivez ces étapes :
 
-#### Sur Linux ou macOS
+### Sur Linux ou macOS
 
 ```bash
 curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 ```
-#### Sur Windows
+### Sur Windows
 
 Installation manuelle sur le site de [Composer](https://getcomposer.org/download/)
