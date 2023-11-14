@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksquareface_doc=self.webpackChunksquareface_doc||[]).push([[3781],{6025:e=>{e.exports=JSON.parse('{"permalink":"/squareface-doc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

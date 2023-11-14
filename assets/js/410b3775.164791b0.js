@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksquareface_doc=self.webpackChunksquareface_doc||[]).push([[6239],{2330:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/squareface-doc/blog/tags/hola","allTagsPath":"/squareface-doc/blog/tags","count":1,"unlisted":false}')}}]);
