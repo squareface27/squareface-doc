@@ -102,11 +102,20 @@ const config = {
             items: [
               {
                 label: 'Symfony',
-                to: '/docs/intro',
+                to: 'docs/category/symfony',
               },
               {
                 label: 'Linux',
-                to: '/docs/intro',
+                to: 'docs/category/linux',
+              },
+            ],
+          },
+          {
+            title: 'Certification',
+            items: [
+              {
+                label: 'Atelier RGPD CNIL',
+                to: 'docs/certification/cnil/intro',
               },
             ],
           },

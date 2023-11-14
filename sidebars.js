@@ -27,12 +27,13 @@ const sidebars = {
   certifs: [
     'certification/intro',
     {
-        label: 'CNIL - Atelier RGPD',
-        type: 'category',
-        link: {
-            type: 'generated-index',
-        },
-        items: [
+      label: 'CNIL - Atelier RGPD',
+      type: 'category',
+      link: {
+        type: 'generated-index',
+      },
+      items: [
+          'certification/cnil/intro',
             {
                 type: 'category',
                 label: 'Module 1 : Le RGPD et ses notions clés',
