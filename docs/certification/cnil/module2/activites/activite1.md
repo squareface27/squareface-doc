@@ -1,4 +1,4 @@
-# Activité 1 : : Les 8 règles d'or
+# Activité 1 : Les 8 règles d'or
 
 ### Les 8 règles d'or :
 
