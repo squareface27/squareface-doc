@@ -76,17 +76,23 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'documentation/intro',
+            docId: 'guidesurvie/intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Guide de survie',
           },
-          {
-            type: 'docSidebar',
-            position: 'left',
-            sidebarId: 'certifs',
-            label: 'Certification',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   type: 'doc',
+          //   docId: 'documentation/intro',
+          //   position: 'left',
+          //   label: 'Documentation',
+          // },
+          // {
+          //   type: 'docSidebar',
+          //   position: 'left',
+          //   sidebarId: 'certifs',
+          //   label: 'Certification',
+          // },
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/squareface27/',
             label: 'GitHub',
